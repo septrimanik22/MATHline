@@ -1,0 +1,314 @@
+[10-Jan-2026 12:17:43 Asia/Jakarta] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in D:\xampp\htdocs\MATHLine\includes\config.php on line 82
+[10-Jan-2026 12:17:43 Asia/Jakarta] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in D:\xampp\htdocs\MATHLine\includes\config.php on line 82
+[10-Jan-2026 12:17:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to private Database::__construct() from global scope in D:\xampp\htdocs\MATHLine\student\dashboard.php:8
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\MATHLine\student\dashboard.php on line 8
+[10-Jan-2026 12:33:34 Asia/Jakarta] PHP Warning:  require_once(../includes/database.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\MATHLine\student\dashboard.php on line 19
+[10-Jan-2026 12:33:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '../includes/database.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\MATHLine\student\dashboard.php:19
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\MATHLine\student\dashboard.php on line 19
+[10-Jan-2026 12:33:44 Asia/Jakarta] PHP Warning:  require_once(../includes/database.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\MATHLine\student\dashboard.php on line 19
+[10-Jan-2026 12:33:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '../includes/database.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\MATHLine\student\dashboard.php:19
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\MATHLine\student\dashboard.php on line 19
+[10-Jan-2026 12:33:45 Asia/Jakarta] PHP Warning:  require_once(../includes/database.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\MATHLine\student\dashboard.php on line 19
+[10-Jan-2026 12:33:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '../includes/database.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\MATHLine\student\dashboard.php:19
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\MATHLine\student\dashboard.php on line 19
+[10-Jan-2026 12:33:46 Asia/Jakarta] PHP Warning:  require_once(../includes/database.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\MATHLine\student\dashboard.php on line 19
+[10-Jan-2026 12:33:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '../includes/database.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\MATHLine\student\dashboard.php:19
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\MATHLine\student\dashboard.php on line 19
+[10-Jan-2026 12:33:46 Asia/Jakarta] PHP Warning:  require_once(../includes/database.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\MATHLine\student\dashboard.php on line 19
+[10-Jan-2026 12:33:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '../includes/database.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\MATHLine\student\dashboard.php:19
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\MATHLine\student\dashboard.php on line 19
+[10-Jan-2026 12:39:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to private Database::__construct() from global scope in D:\xampp\htdocs\MATHLine\student\dashboard.php:22
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\MATHLine\student\dashboard.php on line 22
+[10-Jan-2026 12:41:19 Asia/Jakarta] PHP Warning:  require_once(database.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\MATHLine\includes\auth.php on line 18
+[10-Jan-2026 12:41:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required 'database.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\MATHLine\includes\auth.php:18
+Stack trace:
+#0 D:\xampp\htdocs\MATHLine\student\navbar.php(3): require_once()
+#1 D:\xampp\htdocs\MATHLine\student\dashboard.php(119): include('D:\\xampp\\htdocs...')
+#2 {main}
+  thrown in D:\xampp\htdocs\MATHLine\includes\auth.php on line 18
+[10-Jan-2026 12:45:06 Asia/Jakarta] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\MATHLine\student\view_materials.php on line 450
+[10-Jan-2026 12:45:06 Asia/Jakarta] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\MATHLine\student\view_materials.php on line 450
+[10-Jan-2026 12:45:35 Asia/Jakarta] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\MATHLine\student\view_problems.php on line 448
+[10-Jan-2026 12:45:35 Asia/Jakarta] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\MATHLine\student\view_problems.php on line 448
+[10-Jan-2026 12:45:38 Asia/Jakarta] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\MATHLine\student\my_submissions.php on line 579
+[10-Jan-2026 12:45:38 Asia/Jakarta] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\MATHLine\student\my_submissions.php on line 579
+[10-Jan-2026 12:47:56 Asia/Jakarta] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\MATHLine\student\view_materials.php on line 450
+[10-Jan-2026 12:47:56 Asia/Jakarta] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\MATHLine\student\view_materials.php on line 450
+[10-Jan-2026 14:44:58 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'points' in 'where clause' in D:\xampp\htdocs\MATHLine\student\my_progress.php:111
+Stack trace:
+#0 D:\xampp\htdocs\MATHLine\student\my_progress.php(111): mysqli->prepare('\r\n    SELECT CO...')
+#1 {main}
+  thrown in D:\xampp\htdocs\MATHLine\student\my_progress.php on line 111
+[10-Jan-2026 15:37:15 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'points' in 'where clause' in D:\xampp\htdocs\MATHLine\student\my_progress.php:111
+Stack trace:
+#0 D:\xampp\htdocs\MATHLine\student\my_progress.php(111): mysqli->prepare('\r\n    SELECT CO...')
+#1 {main}
+  thrown in D:\xampp\htdocs\MATHLine\student\my_progress.php on line 111
+[10-Jan-2026 15:50:11 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'm.bab' in 'field list' in D:\xampp\htdocs\MATHLine\student\view_problems.php:41
+Stack trace:
+#0 D:\xampp\htdocs\MATHLine\student\view_problems.php(41): mysqli->prepare('SELECT \r\n    p....')
+#1 {main}
+  thrown in D:\xampp\htdocs\MATHLine\student\view_problems.php on line 41
+[10-Jan-2026 20:19:39 Asia/Jakarta] PHP Warning:  Undefined array key "sub_bab" in D:\xampp\htdocs\MATHLine\student\my_submissions.php on line 247
+[10-Jan-2026 20:19:39 Asia/Jakarta] PHP Warning:  Undefined array key "points" in D:\xampp\htdocs\MATHLine\student\my_submissions.php on line 248
+[10-Jan-2026 20:20:53 Asia/Jakarta] PHP Warning:  Undefined array key "sub_bab" in D:\xampp\htdocs\MATHLine\student\my_submissions.php on line 248
+[10-Jan-2026 20:21:06 Asia/Jakarta] PHP Warning:  Undefined array key "sub_bab" in D:\xampp\htdocs\MATHLine\student\my_submissions.php on line 248
+[10-Jan-2026 20:21:08 Asia/Jakarta] PHP Warning:  Undefined array key "sub_bab" in D:\xampp\htdocs\MATHLine\student\my_submissions.php on line 248
+[10-Jan-2026 20:21:55 Asia/Jakarta] PHP Warning:  Undefined array key "sub_bab" in D:\xampp\htdocs\MATHLine\student\my_submissions.php on line 246
+[10-Jan-2026 20:21:55 Asia/Jakarta] PHP Warning:  Undefined array key "sub_bab" in D:\xampp\htdocs\MATHLine\student\my_submissions.php on line 246
+[10-Jan-2026 20:21:55 Asia/Jakarta] PHP Warning:  Undefined array key "sub_bab" in D:\xampp\htdocs\MATHLine\student\my_submissions.php on line 246
+[10-Jan-2026 20:23:05 Asia/Jakarta] PHP Warning:  Undefined array key "sub_bab" in D:\xampp\htdocs\MATHLine\student\my_submissions.php on line 244
+[10-Jan-2026 20:23:05 Asia/Jakarta] PHP Warning:  Undefined array key "sub_bab" in D:\xampp\htdocs\MATHLine\student\my_submissions.php on line 244
+[10-Jan-2026 20:23:05 Asia/Jakarta] PHP Warning:  Undefined array key "sub_bab" in D:\xampp\htdocs\MATHLine\student\my_submissions.php on line 244
+[10-Jan-2026 20:23:05 Asia/Jakarta] PHP Warning:  Undefined array key "sub_bab" in D:\xampp\htdocs\MATHLine\student\my_submissions.php on line 244
+[10-Jan-2026 20:23:05 Asia/Jakarta] PHP Warning:  Undefined array key "sub_bab" in D:\xampp\htdocs\MATHLine\student\my_submissions.php on line 244
+[10-Jan-2026 20:58:01 Asia/Jakarta] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in D:\xampp\htdocs\MATHLine\student\my_progress.php:726
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\MATHLine\student\my_progress.php on line 726
+[10-Jan-2026 22:36:36 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in D:\xampp\htdocs\MATHLine\student_login.php:33
+Stack trace:
+#0 D:\xampp\htdocs\MATHLine\student_login.php(33): mysqli->prepare('SELECT u.*, s.c...')
+#1 {main}
+  thrown in D:\xampp\htdocs\MATHLine\student_login.php on line 33
+[11-Jan-2026 00:23:15 Asia/Jakarta] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed after headers have already been sent in D:\xampp\htdocs\MATHLine\includes\config.php on line 74
+[11-Jan-2026 00:23:15 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\MATHLine\student\view_materials.php:1) in D:\xampp\htdocs\MATHLine\includes\auth.php on line 209
+[11-Jan-2026 12:42:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method Auth::getCSRFToken() in D:\xampp\htdocs\MATHLine\login.php:33
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\MATHLine\login.php on line 33
+[11-Jan-2026 12:43:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method Auth::getCSRFToken() in D:\xampp\htdocs\MATHLine\login.php:33
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\MATHLine\login.php on line 33
+[11-Jan-2026 12:49:18 Asia/Jakarta] Auth login attempt for: Septriana Manik
+[11-Jan-2026 12:49:18 Asia/Jakarta] User not found: Septriana Manik
+[11-Jan-2026 12:55:14 Asia/Jakarta] Auth login attempt for: septriana22
+[11-Jan-2026 12:55:14 Asia/Jakarta] User found: septriana22, Role: guru
+[11-Jan-2026 12:55:14 Asia/Jakarta] Password verification FAILED for all methods
+[11-Jan-2026 12:55:38 Asia/Jakarta] Auth login attempt for: septriana22
+[11-Jan-2026 12:55:38 Asia/Jakarta] User found: septriana22, Role: guru
+[11-Jan-2026 12:55:39 Asia/Jakarta] Password verification FAILED for all methods
+[11-Jan-2026 12:55:48 Asia/Jakarta] Auth login attempt for: septriana22
+[11-Jan-2026 12:55:48 Asia/Jakarta] User found: septriana22, Role: guru
+[11-Jan-2026 12:55:48 Asia/Jakarta] Password verification FAILED for all methods
+[11-Jan-2026 12:55:57 Asia/Jakarta] Auth login attempt for: septriana22
+[11-Jan-2026 12:55:57 Asia/Jakarta] User found: septriana22, Role: guru
+[11-Jan-2026 12:55:58 Asia/Jakarta] Password verification FAILED for all methods
+[11-Jan-2026 12:56:05 Asia/Jakarta] Auth login attempt for: septriana22
+[11-Jan-2026 12:56:05 Asia/Jakarta] User found: septriana22, Role: guru
+[11-Jan-2026 12:56:05 Asia/Jakarta] Password verification FAILED for all methods
+[11-Jan-2026 12:56:54 Asia/Jakarta] Auth login attempt for: septriana22
+[11-Jan-2026 12:56:54 Asia/Jakarta] User found: septriana22, Role: guru
+[11-Jan-2026 12:56:54 Asia/Jakarta] Password verification FAILED for all methods
+[11-Jan-2026 13:01:31 Asia/Jakarta] Auth login attempt for: septriana22
+[11-Jan-2026 13:01:31 Asia/Jakarta] User found: septriana22, Role: guru
+[11-Jan-2026 13:01:31 Asia/Jakarta] Password verification FAILED for all methods
+[11-Jan-2026 13:01:47 Asia/Jakarta] Auth login attempt for: septriana22
+[11-Jan-2026 13:01:47 Asia/Jakarta] User found: septriana22, Role: guru
+[11-Jan-2026 13:01:48 Asia/Jakarta] Password verification FAILED for all methods
+[11-Jan-2026 13:05:52 Asia/Jakarta] Auth login attempt for: septriana22
+[11-Jan-2026 13:05:52 Asia/Jakarta] User found: septriana22, Role: guru
+[11-Jan-2026 13:05:53 Asia/Jakarta] Password verification FAILED for all methods
+[11-Jan-2026 13:07:07 Asia/Jakarta] Auth login attempt for: septriana22
+[11-Jan-2026 13:07:07 Asia/Jakarta] User found: septriana22, Role: guru
+[11-Jan-2026 13:07:08 Asia/Jakarta] Password verification FAILED for all methods
+[11-Jan-2026 13:07:25 Asia/Jakarta] Auth login attempt for: septriana22
+[11-Jan-2026 13:07:25 Asia/Jakarta] User found: septriana22, Role: guru
+[11-Jan-2026 13:07:25 Asia/Jakarta] Password verification FAILED for all methods
+[11-Jan-2026 13:13:37 Asia/Jakarta] Auth login attempt for: septriana22
+[11-Jan-2026 13:13:37 Asia/Jakarta] User found: septriana22, Role: guru
+[11-Jan-2026 13:13:38 Asia/Jakarta] Password verification FAILED for all methods
+[11-Jan-2026 16:40:18 Asia/Jakarta] Dashboard Error: Unknown column 'pr.phase' in 'field list'
+[11-Jan-2026 16:40:18 Asia/Jakarta] PHP Deprecated:  Function strftime() is deprecated in D:\xampp\htdocs\MATHLine\admin\dashboard.php on line 741
+[11-Jan-2026 16:58:17 Asia/Jakarta] Dashboard Error: Unknown column 'pr.phase' in 'field list'
+[11-Jan-2026 16:58:17 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\MATHLine\admin\dashboard.php:221) in D:\xampp\htdocs\MATHLine\includes\auth.php on line 126
+[11-Jan-2026 17:07:43 Asia/Jakarta] Dashboard Error: Unknown column 'pr.phase' in 'field list'
+[11-Jan-2026 17:07:43 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\MATHLine\admin\dashboard.php:231) in D:\xampp\htdocs\MATHLine\includes\auth.php on line 126
+[11-Jan-2026 17:20:34 Asia/Jakarta] Dashboard Error: Unknown column 'pr.phase' in 'field list'
+[11-Jan-2026 17:37:14 Asia/Jakarta] Dashboard Error: Unknown column 'pr.phase' in 'field list'
+[11-Jan-2026 17:38:58 Asia/Jakarta] Dashboard Error: Unknown column 'pr.phase' in 'field list'
+[11-Jan-2026 17:51:42 Asia/Jakarta] Dashboard Error: Unknown column 'pr.phase' in 'field list'
+[11-Jan-2026 17:58:44 Asia/Jakarta] Dashboard Error: Unknown column 'pr.phase' in 'field list'
+[11-Jan-2026 18:03:19 Asia/Jakarta] Dashboard Error: Unknown column 'pr.phase' in 'field list'
+[11-Jan-2026 18:05:26 Asia/Jakarta] Dashboard Error: Unknown column 'pr.phase' in 'field list'
+[11-Jan-2026 18:11:11 Asia/Jakarta] Dashboard Error: Unknown column 'pr.phase' in 'field list'
+[11-Jan-2026 18:16:58 Asia/Jakarta] Dashboard Error: Unknown column 'pr.phase' in 'field list'
+[11-Jan-2026 18:23:19 Asia/Jakarta] Dashboard Error: Unknown column 'pr.phase' in 'field list'
+[11-Jan-2026 18:41:03 Asia/Jakarta] Dashboard Error: Unknown column 'pr.phase' in 'field list'
+[11-Jan-2026 19:42:13 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 's.enrollment_year' in 'field list' in D:\xampp\htdocs\MATHLine\admin\students.php:36
+Stack trace:
+#0 D:\xampp\htdocs\MATHLine\admin\students.php(36): mysqli->prepare('\r\n    SELECT u....')
+#1 {main}
+  thrown in D:\xampp\htdocs\MATHLine\admin\students.php on line 36
+[11-Jan-2026 19:42:21 Asia/Jakarta] PHP Warning:  Undefined array key "content" in D:\xampp\htdocs\MATHLine\admin\submissions.php on line 312
+[11-Jan-2026 19:42:21 Asia/Jakarta] PHP Warning:  Undefined array key "content" in D:\xampp\htdocs\MATHLine\admin\submissions.php on line 312
+[11-Jan-2026 19:42:21 Asia/Jakarta] PHP Warning:  Undefined array key "content" in D:\xampp\htdocs\MATHLine\admin\submissions.php on line 312
+[11-Jan-2026 19:42:21 Asia/Jakarta] PHP Warning:  Undefined array key "content" in D:\xampp\htdocs\MATHLine\admin\submissions.php on line 312
+[11-Jan-2026 23:32:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in D:\xampp\htdocs\MATHLine\admin\materials.php:70
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\MATHLine\admin\materials.php on line 70
+[12-Jan-2026 19:14:08 Asia/Jakarta] PHP Warning:  Undefined array key "content" in D:\xampp\htdocs\MATHLine\admin\submissions.php on line 312
+[12-Jan-2026 19:14:08 Asia/Jakarta] PHP Warning:  Undefined array key "content" in D:\xampp\htdocs\MATHLine\admin\submissions.php on line 312
+[12-Jan-2026 19:14:08 Asia/Jakarta] PHP Warning:  Undefined array key "content" in D:\xampp\htdocs\MATHLine\admin\submissions.php on line 312
+[12-Jan-2026 19:14:08 Asia/Jakarta] PHP Warning:  Undefined array key "content" in D:\xampp\htdocs\MATHLine\admin\submissions.php on line 312
+[12-Jan-2026 19:14:29 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 's.enrollment_year' in 'field list' in D:\xampp\htdocs\MATHLine\admin\students.php:36
+Stack trace:
+#0 D:\xampp\htdocs\MATHLine\admin\students.php(36): mysqli->prepare('\r\n    SELECT u....')
+#1 {main}
+  thrown in D:\xampp\htdocs\MATHLine\admin\students.php on line 36
+[12-Jan-2026 19:16:12 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 's.enrollment_year' in 'field list' in D:\xampp\htdocs\MATHLine\admin\student_detail.php:22
+Stack trace:
+#0 D:\xampp\htdocs\MATHLine\admin\student_detail.php(22): mysqli->prepare('\r\n    SELECT u....')
+#1 {main}
+  thrown in D:\xampp\htdocs\MATHLine\admin\student_detail.php on line 22
+[12-Jan-2026 19:16:41 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 's.enrollment_year' in 'field list' in D:\xampp\htdocs\MATHLine\admin\student_detail.php:22
+Stack trace:
+#0 D:\xampp\htdocs\MATHLine\admin\student_detail.php(22): mysqli->prepare('\r\n    SELECT u....')
+#1 {main}
+  thrown in D:\xampp\htdocs\MATHLine\admin\student_detail.php on line 22
+[12-Jan-2026 19:17:03 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 's.enrollment_year' in 'field list' in D:\xampp\htdocs\MATHLine\admin\student_detail.php:22
+Stack trace:
+#0 D:\xampp\htdocs\MATHLine\admin\student_detail.php(22): mysqli->prepare('\r\n    SELECT u....')
+#1 {main}
+  thrown in D:\xampp\htdocs\MATHLine\admin\student_detail.php on line 22
+[12-Jan-2026 19:17:08 Asia/Jakarta] PHP Warning:  Undefined array key "content" in D:\xampp\htdocs\MATHLine\admin\submissions.php on line 312
+[12-Jan-2026 19:19:25 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 's.enrollment_year' in 'field list' in D:\xampp\htdocs\MATHLine\admin\student_detail.php:22
+Stack trace:
+#0 D:\xampp\htdocs\MATHLine\admin\student_detail.php(22): mysqli->prepare('\r\n    SELECT u....')
+#1 {main}
+  thrown in D:\xampp\htdocs\MATHLine\admin\student_detail.php on line 22
+[12-Jan-2026 19:32:40 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 's.registration_date' in 'field list' in D:\xampp\htdocs\MATHLine\admin\student_detail.php:17
+Stack trace:
+#0 D:\xampp\htdocs\MATHLine\admin\student_detail.php(17): mysqli->prepare('\r\n    SELECT u....')
+#1 {main}
+  thrown in D:\xampp\htdocs\MATHLine\admin\student_detail.php on line 17
+[12-Jan-2026 19:38:06 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 's.registration_date' in 'field list' in D:\xampp\htdocs\MATHLine\admin\student_detail.php:17
+Stack trace:
+#0 D:\xampp\htdocs\MATHLine\admin\student_detail.php(17): mysqli->prepare('\r\n    SELECT u....')
+#1 {main}
+  thrown in D:\xampp\htdocs\MATHLine\admin\student_detail.php on line 17
+[12-Jan-2026 19:47:05 Asia/Jakarta] PHP Warning:  Undefined array key "content" in D:\xampp\htdocs\MATHLine\admin\submissions.php on line 312
+[12-Jan-2026 19:47:05 Asia/Jakarta] PHP Warning:  Undefined array key "content" in D:\xampp\htdocs\MATHLine\admin\submissions.php on line 312
+[12-Jan-2026 19:47:16 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 's.registration_date' in 'field list' in D:\xampp\htdocs\MATHLine\admin\student_detail.php:17
+Stack trace:
+#0 D:\xampp\htdocs\MATHLine\admin\student_detail.php(17): mysqli->prepare('\r\n    SELECT u....')
+#1 {main}
+  thrown in D:\xampp\htdocs\MATHLine\admin\student_detail.php on line 17
+[12-Jan-2026 20:02:49 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 's.registration_date' in 'field list' in D:\xampp\htdocs\MATHLine\admin\student_detail.php:17
+Stack trace:
+#0 D:\xampp\htdocs\MATHLine\admin\student_detail.php(17): mysqli->prepare('\r\n    SELECT u....')
+#1 {main}
+  thrown in D:\xampp\htdocs\MATHLine\admin\student_detail.php on line 17
+[12-Jan-2026 20:10:49 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 's.registration_date' in 'field list' in D:\xampp\htdocs\MATHLine\admin\student_detail.php:17
+Stack trace:
+#0 D:\xampp\htdocs\MATHLine\admin\student_detail.php(17): mysqli->prepare('\r\n    SELECT u....')
+#1 {main}
+  thrown in D:\xampp\htdocs\MATHLine\admin\student_detail.php on line 17
+[12-Jan-2026 20:10:53 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 's.registration_date' in 'field list' in D:\xampp\htdocs\MATHLine\admin\student_detail.php:17
+Stack trace:
+#0 D:\xampp\htdocs\MATHLine\admin\student_detail.php(17): mysqli->prepare('\r\n    SELECT u....')
+#1 {main}
+  thrown in D:\xampp\htdocs\MATHLine\admin\student_detail.php on line 17
+[12-Jan-2026 20:15:28 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\xampp\htdocs\MATHLine\admin\student_detail.php on line 561
+[13-Jan-2026 21:42:43 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 's.enrollment_year' in 'field list' in D:\xampp\htdocs\MATHLine\admin\students.php:36
+Stack trace:
+#0 D:\xampp\htdocs\MATHLine\admin\students.php(36): mysqli->prepare('\r\n    SELECT u....')
+#1 {main}
+  thrown in D:\xampp\htdocs\MATHLine\admin\students.php on line 36
+[13-Jan-2026 22:11:03 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 's.enrollment_year' in 'field list' in D:\xampp\htdocs\MATHLine\admin\students.php:36
+Stack trace:
+#0 D:\xampp\htdocs\MATHLine\admin\students.php(36): mysqli->prepare('\r\n    SELECT u....')
+#1 {main}
+  thrown in D:\xampp\htdocs\MATHLine\admin\students.php on line 36
+[13-Jan-2026 22:14:58 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\xampp\htdocs\MATHLine\admin\students.php on line 338
+[13-Jan-2026 22:14:58 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\xampp\htdocs\MATHLine\admin\students.php on line 338
+[13-Jan-2026 22:14:58 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\xampp\htdocs\MATHLine\admin\students.php on line 338
+[13-Jan-2026 22:14:58 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\xampp\htdocs\MATHLine\admin\students.php on line 338
+[13-Jan-2026 22:14:58 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\xampp\htdocs\MATHLine\admin\students.php on line 338
+[13-Jan-2026 23:21:31 Asia/Jakarta] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\MATHLine\admin\settings.php on line 476
+[13-Jan-2026 23:21:31 Asia/Jakarta] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\MATHLine\admin\settings.php on line 476
+[16-Jan-2026 22:41:35 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in D:\xampp\htdocs\MATHLine\student_login.php:54
+Stack trace:
+#0 D:\xampp\htdocs\MATHLine\student_login.php(54): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\xampp\htdocs\MATHLine\student_login.php on line 54
+[17-Jan-2026 00:32:04 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getPageTitle() (previously declared in D:\xampp\htdocs\MATHLine\student\navbar.php:693) in D:\xampp\htdocs\MATHLine\student\navbar.php on line 704
+[17-Jan-2026 00:32:08 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getPageTitle() (previously declared in D:\xampp\htdocs\MATHLine\student\navbar.php:693) in D:\xampp\htdocs\MATHLine\student\navbar.php on line 704
+[17-Jan-2026 00:32:15 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getPageTitle() (previously declared in D:\xampp\htdocs\MATHLine\student\navbar.php:693) in D:\xampp\htdocs\MATHLine\student\navbar.php on line 704
+[17-Jan-2026 00:32:18 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getPageTitle() (previously declared in D:\xampp\htdocs\MATHLine\student\navbar.php:693) in D:\xampp\htdocs\MATHLine\student\navbar.php on line 704
+[17-Jan-2026 00:32:37 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getPageTitle() (previously declared in D:\xampp\htdocs\MATHLine\student\navbar.php:693) in D:\xampp\htdocs\MATHLine\student\navbar.php on line 704
+[17-Jan-2026 00:32:44 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getPageTitle() (previously declared in D:\xampp\htdocs\MATHLine\student\navbar.php:693) in D:\xampp\htdocs\MATHLine\student\navbar.php on line 704
+[17-Jan-2026 00:32:51 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getPageTitle() (previously declared in D:\xampp\htdocs\MATHLine\student\navbar.php:693) in D:\xampp\htdocs\MATHLine\student\navbar.php on line 704
+[17-Jan-2026 00:39:11 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getPageTitle() (previously declared in D:\xampp\htdocs\MATHLine\student\navbar.php:9) in D:\xampp\htdocs\MATHLine\student\navbar.php on line 20
+[17-Jan-2026 00:39:13 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getPageTitle() (previously declared in D:\xampp\htdocs\MATHLine\student\navbar.php:9) in D:\xampp\htdocs\MATHLine\student\navbar.php on line 20
+[17-Jan-2026 00:39:18 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getPageTitle() (previously declared in D:\xampp\htdocs\MATHLine\student\navbar.php:9) in D:\xampp\htdocs\MATHLine\student\navbar.php on line 20
+[17-Jan-2026 00:39:40 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getPageTitle() (previously declared in D:\xampp\htdocs\MATHLine\student\navbar.php:693) in D:\xampp\htdocs\MATHLine\student\navbar.php on line 704
+[17-Jan-2026 00:45:47 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getPageTitle() (previously declared in D:\xampp\htdocs\MATHLine\student\navbar.php:693) in D:\xampp\htdocs\MATHLine\student\navbar.php on line 704
+[17-Jan-2026 00:54:02 Asia/Jakarta] PHP Fatal error:  Cannot redeclare getPageTitle() (previously declared in D:\xampp\htdocs\MATHLine\student\navbar.php:693) in D:\xampp\htdocs\MATHLine\student\navbar.php on line 704
+[17-Jan-2026 01:06:54 Asia/Jakarta] PHP Warning:  Undefined variable $stats in D:\xampp\htdocs\MATHLine\student\dashboard.php on line 465
+[17-Jan-2026 01:06:54 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in D:\xampp\htdocs\MATHLine\student\dashboard.php on line 465
+[17-Jan-2026 01:06:54 Asia/Jakarta] PHP Warning:  Undefined variable $stats in D:\xampp\htdocs\MATHLine\student\dashboard.php on line 473
+[17-Jan-2026 01:06:54 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in D:\xampp\htdocs\MATHLine\student\dashboard.php on line 473
+[17-Jan-2026 01:06:54 Asia/Jakarta] PHP Warning:  Undefined variable $stats in D:\xampp\htdocs\MATHLine\student\dashboard.php on line 481
+[17-Jan-2026 01:06:54 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in D:\xampp\htdocs\MATHLine\student\dashboard.php on line 481
+[17-Jan-2026 01:06:54 Asia/Jakarta] PHP Warning:  Undefined variable $stats in D:\xampp\htdocs\MATHLine\student\dashboard.php on line 489
+[17-Jan-2026 01:06:54 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in D:\xampp\htdocs\MATHLine\student\dashboard.php on line 489
+[17-Jan-2026 01:08:31 Asia/Jakarta] PHP Warning:  Undefined variable $stats in D:\xampp\htdocs\MATHLine\student\dashboard.php on line 465
+[17-Jan-2026 01:08:31 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in D:\xampp\htdocs\MATHLine\student\dashboard.php on line 465
+[17-Jan-2026 01:08:31 Asia/Jakarta] PHP Warning:  Undefined variable $stats in D:\xampp\htdocs\MATHLine\student\dashboard.php on line 473
+[17-Jan-2026 01:08:31 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in D:\xampp\htdocs\MATHLine\student\dashboard.php on line 473
+[17-Jan-2026 01:08:31 Asia/Jakarta] PHP Warning:  Undefined variable $stats in D:\xampp\htdocs\MATHLine\student\dashboard.php on line 481
+[17-Jan-2026 01:08:31 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in D:\xampp\htdocs\MATHLine\student\dashboard.php on line 481
+[17-Jan-2026 01:08:31 Asia/Jakarta] PHP Warning:  Undefined variable $stats in D:\xampp\htdocs\MATHLine\student\dashboard.php on line 489
+[17-Jan-2026 01:08:31 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in D:\xampp\htdocs\MATHLine\student\dashboard.php on line 489
+[17-Jan-2026 01:09:10 Asia/Jakarta] PHP Warning:  Undefined variable $stats in D:\xampp\htdocs\MATHLine\student\dashboard.php on line 465
+[17-Jan-2026 01:09:10 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in D:\xampp\htdocs\MATHLine\student\dashboard.php on line 465
+[17-Jan-2026 01:09:10 Asia/Jakarta] PHP Warning:  Undefined variable $stats in D:\xampp\htdocs\MATHLine\student\dashboard.php on line 473
+[17-Jan-2026 01:09:10 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in D:\xampp\htdocs\MATHLine\student\dashboard.php on line 473
+[17-Jan-2026 01:09:10 Asia/Jakarta] PHP Warning:  Undefined variable $stats in D:\xampp\htdocs\MATHLine\student\dashboard.php on line 481
+[17-Jan-2026 01:09:10 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in D:\xampp\htdocs\MATHLine\student\dashboard.php on line 481
+[17-Jan-2026 01:09:10 Asia/Jakarta] PHP Warning:  Undefined variable $stats in D:\xampp\htdocs\MATHLine\student\dashboard.php on line 489
+[17-Jan-2026 01:09:10 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in D:\xampp\htdocs\MATHLine\student\dashboard.php on line 489
+[17-Jan-2026 20:03:15 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in Unknown on line 0
+[17-Jan-2026 20:03:15 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in Unknown on line 0
+[17-Jan-2026 20:03:15 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in Unknown on line 0
+[17-Jan-2026 20:09:01 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: No connection could be made because the target machine actively refused it in D:\xampp\htdocs\MATHLine\includes\db_connection.php:25
+Stack trace:
+#0 D:\xampp\htdocs\MATHLine\includes\db_connection.php(25): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'MATHLine')
+#1 D:\xampp\htdocs\MATHLine\includes\db_connection.php(12): Database->connect()
+#2 D:\xampp\htdocs\MATHLine\includes\db_connection.php(18): Database->__construct()
+#3 D:\xampp\htdocs\MATHLine\student_login.php(7): Database::getInstance()
+#4 {main}
+  thrown in D:\xampp\htdocs\MATHLine\includes\db_connection.php on line 25
+[17-Jan-2026 20:09:14 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: No connection could be made because the target machine actively refused it in D:\xampp\htdocs\MATHLine\includes\db_connection.php:25
+Stack trace:
+#0 D:\xampp\htdocs\MATHLine\includes\db_connection.php(25): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'MATHLine')
+#1 D:\xampp\htdocs\MATHLine\includes\db_connection.php(12): Database->connect()
+#2 D:\xampp\htdocs\MATHLine\includes\db_connection.php(18): Database->__construct()
+#3 D:\xampp\htdocs\MATHLine\student_login.php(7): Database::getInstance()
+#4 {main}
+  thrown in D:\xampp\htdocs\MATHLine\includes\db_connection.php on line 25
+[17-Jan-2026 20:29:51 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`mathline`.`discussions`, CONSTRAINT `discussions_ibfk_2` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`)) in D:\xampp\htdocs\MATHLine\admin\students.php:67
+Stack trace:
+#0 D:\xampp\htdocs\MATHLine\admin\students.php(67): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\xampp\htdocs\MATHLine\admin\students.php on line 67
+[18-Jan-2026 01:10:07 Asia/Jakarta] PHP Warning:  Undefined variable $total_masalah in D:\xampp\htdocs\MATHLine\student\my_submissions.php on line 242
+[18-Jan-2026 01:10:07 Asia/Jakarta] PHP Warning:  Undefined variable $total_masalah in D:\xampp\htdocs\MATHLine\student\my_submissions.php on line 246
+[18-Jan-2026 01:10:07 Asia/Jakarta] PHP Warning:  Undefined variable $total_masalah in D:\xampp\htdocs\MATHLine\student\my_submissions.php on line 857
